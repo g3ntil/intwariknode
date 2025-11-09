@@ -1,0 +1,148 @@
+/* TEAM */
+
+Founder & CEO: Gaetan Muvunyi
+Contact: hello [at] intwariknode.com
+Instagram: @connectioncafe
+Location: Kigali, Rwanda
+
+/* THANKS */
+
+Special thanks to all our clients who trusted us with their digital presence.
+Thanks to the Rwanda tech community for continuous support and inspiration.
+
+/* SITE */
+
+Last update: 2025/11/04
+Language: English / Français / Kinyarwanda
+Doctype: HTML5
+IDE: Visual Studio Code
+Components: React, TypeScript, Tailwind CSS
+Build: Vite
+Deployment: Static Site Generation (SSG)
+Standards: SEO, Accessibility, Performance, Security
+Backend: Node.js (for pre-rendering)
+
+/* LOCATION */
+
+Company: INTWARI Knode
+Address: Kigali, Rwanda
+Website: https://intwariknode.com
+Email: hello@intwariknode.com
+Phone: +250 788 123 456
+
+/* SERVICES */
+
+- Web Development
+- Software Development
+- Business Photography
+- Social Media Management
+
+/* VALUES */
+
+- Precision: Every pixel matters
+- Innovation: Push boundaries
+- Passion: Love what we do
+- Speed: Fast execution
+
+/* SEO */
+
+Primary Keywords:
+- website design rwanda
+- web development rwanda
+- digital marketing agency rwanda
+- web design kigali
+- website developer kigali
+
+Target Market: Rwanda (Kigali)
+Target Audience: Businesses seeking digital solutions
+
+/* CREDITS */
+
+Design: INTWARI Knode Team
+Development: INTWARI Knode Team
+Photography: INTWARI Knode
+Content: INTWARI Knode
+
+/* TECHNOLOGY STACK */
+
+Frontend:
+- React 18
+- TypeScript
+- Tailwind CSS 4
+- Motion (Framer Motion)
+- Lucide Icons
+
+Backend:
+- Node.js
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+
+Build Tools:
+- Vite
+- ESBuild
+- PostCSS
+
+Hosting:
+- CDN for static assets
+- Edge delivery for fast global access
+
+/* PERFORMANCE */
+
+- Core Web Vitals optimized
+- Lighthouse score: 95+
+- Mobile-first responsive design
+- Progressive Web App (PWA) ready
+- Lazy loading images
+- Code splitting
+- Asset optimization
+
+/* ACCESSIBILITY */
+
+- WCAG 2.1 Level AA compliant
+- Semantic HTML
+- ARIA labels
+- Keyboard navigation
+- Screen reader friendly
+- High contrast support
+
+/* SECURITY */
+
+- HTTPS enforced
+- Content Security Policy
+- XSS protection
+- CSRF protection
+- Secure headers
+- Regular security audits
+
+/* ANALYTICS */
+
+- Google Analytics 4
+- Google Search Console
+- Performance monitoring
+- User behavior tracking
+- Conversion tracking
+
+/* SOCIAL MEDIA */
+
+Instagram: @connectioncafe
+Facebook: /intwariknode
+LinkedIn: /company/intwariknode
+Twitter: @intwariknode
+
+/* COPYRIGHT */
+
+Copyright © 2024-2025 INTWARI Knode. All rights reserved.
+
+/* PRIVACY */
+
+We respect your privacy.
+See our Privacy Policy at: https://intwariknode.com/privacy
+
+/* CONTACT */
+
+Ready to transform your digital presence?
+Email: hello@intwariknode.com
+Phone: +250 788 123 456
+Visit: https://intwariknode.com/get-started
+
+🇷🇼 Made with ❤️ in Rwanda

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://intwariknode.com/</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Web Development Service Page -->
+  <url>
+    <loc>https://intwariknode.com/web-development</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Software Development Service Page -->
+  <url>
+    <loc>https://intwariknode.com/software-development</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Business Photography Service Page -->
+  <url>
+    <loc>https://intwariknode.com/business-photography</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Social Media Management Service Page -->
+  <url>
+    <loc>https://intwariknode.com/social-media-management</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://intwariknode.com/about</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Get Started / Contact Page -->
+  <url>
+    <loc>https://intwariknode.com/get-started</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- SEO Landing Page: Affordable Website Design Rwanda -->
+  <url>
+    <loc>https://intwariknode.com/affordable-website-design-rwanda</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- SEO Landing Page: E-commerce Website Rwanda -->
+  <url>
+    <loc>https://intwariknode.com/ecommerce-website-rwanda</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- SEO Landing Page: Digital Marketing Agency Rwanda -->
+  <url>
+    <loc>https://intwariknode.com/digital-marketing-agency-rwanda</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- SEO Landing Page: Web Design Kigali -->
+  <url>
+    <loc>https://intwariknode.com/web-design-kigali</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- SEO Landing Page: SEO Services Rwanda -->
+  <url>
+    <loc>https://intwariknode.com/seo-services-rwanda</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- SEO Landing Page: Branding Agency Rwanda -->
+  <url>
+    <loc>https://intwariknode.com/branding-agency-rwanda</loc>
+    <lastmod>2025-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+</urlset>

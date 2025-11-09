@@ -1,0 +1,49 @@
+# robots.txt for INTWARI Knode
+# Updated: November 4, 2025
+
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.git/
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://intwariknode.com/sitemap.xml
+
+# Specific rules for major search engines
+
+# Google
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+
+# Yandex
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+Disallow: /admin/
+
+# Block bad bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
