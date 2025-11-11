@@ -186,7 +186,7 @@ export function Hero() {
             </Link>
 
             {/* Secondary CTA */}
-            <Link to="/portfolio">
+            <Link to="#portfolio">
               <motion.div
                 className="px-7 sm:px-9 lg:px-10 py-3.5 sm:py-4 lg:py-4.5 rounded-full flex items-center justify-center border-2 backdrop-blur-sm w-full sm:w-auto"
                 style={{ 
