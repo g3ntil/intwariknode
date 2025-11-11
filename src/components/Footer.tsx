@@ -314,7 +314,7 @@ export function Footer() {
                 viewport={{ once: true }}
                 transition={{ delay: 0.1 }}
               >
-                <span className="text-sm text-gray-400">Made with ❤️ in Rwanda</span>
+                <span className="text-sm text-gray-400">Made by intwariknode team in Rwanda</span>
               </motion.div>
             </div>
           </div>
