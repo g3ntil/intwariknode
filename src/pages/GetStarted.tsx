@@ -349,7 +349,7 @@ export function GetStarted() {
               <div className="grid md:grid-cols-2 gap-4 mb-4">
                 <div>
                   <label htmlFor="name" className="block text-sm mb-2 text-gray-700" style={{ fontWeight: 600 }}>
-                    Name *
+                    Name 
                   </label>
                   <input
                     id="name"
@@ -368,7 +368,7 @@ export function GetStarted() {
                 </div>
                 <div>
                   <label htmlFor="email" className="block text-sm mb-2 text-gray-700" style={{ fontWeight: 600 }}>
-                    Email *
+                    Email 
                   </label>
                   <input
                     id="email"
@@ -408,7 +408,7 @@ export function GetStarted() {
                 </div>
                 <div>
                   <label htmlFor="budget" className="block text-sm mb-2 text-gray-700" style={{ fontWeight: 600 }}>
-                    Budget $
+                    Budget (RWF)
                   </label>
                   <div className="relative group">
                     <select
@@ -438,7 +438,7 @@ export function GetStarted() {
 
               <div className="mb-4">
                 <label htmlFor="timeline" className="block text-sm mb-2 text-gray-700" style={{ fontWeight: 600 }}>
-                  Timeline *
+                  Timeline 
                 </label>
                 <div className="relative group">
                   <select
@@ -468,7 +468,7 @@ export function GetStarted() {
               {/* Project Details */}
               <div className="mb-6">
                 <label htmlFor="projectDetails" className="block text-sm mb-2 text-gray-700" style={{ fontWeight: 600 }}>
-                  Project Details *
+                  Project Details 
                 </label>
                 <textarea
                   id="projectDetails"
