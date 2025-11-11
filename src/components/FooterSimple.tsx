@@ -40,15 +40,15 @@ export function FooterSimple() {
     { name: 'Software Development', href: '/software-development' },
     { name: 'Business Photography', href: '/business-photography' },
     { name: 'Social Media Management Rwanda', href: '/social-media-management' },
-    { name: 'Affordable Website Design Rwanda', href: '/affordable-website-design-rwanda' },
-    { name: 'E-commerce Website Rwanda', href: '/ecommerce-website-rwanda' }
+    { name: 'Affordable Website Design Rwanda', href: '/web-development' },
+    { name: 'E-commerce Website Rwanda', href: '/web-development' }
   ];
 
   const seoLinks = [
-    { name: 'Web Design Kigali', href: '/web-design-kigali' },
-    { name: 'SEO Services Rwanda', href: '/seo-services-rwanda' },
-    { name: 'Digital Marketing Agency Rwanda', href: '/digital-marketing-agency-rwanda' },
-    { name: 'Branding Agency Rwanda', href: '/branding-agency-rwanda' }
+    { name: 'Web Design Kigali', href: '/web-development' },
+    { name: 'SEO Services Rwanda', href: '/web-development' },
+    { name: 'Digital Marketing Agency Rwanda', href: '/social-media-management' },
+    { name: 'Branding Agency Rwanda', href: '/social-media-management' }
   ];
 
   return (
