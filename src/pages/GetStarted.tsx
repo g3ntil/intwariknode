@@ -51,10 +51,10 @@ export function GetStarted() {
   ];
 
   const budgetRanges = [
-    '$50.000 - $250,000',
-    '$250,000 - $700,000',
-    '$700,000 - $1,200,000',
-    '$1,200,000+',
+    '50.000 - 250,000',
+    '250,000 - 700,000',
+    '700,000 - 1,200,000',
+    '1,200,000+',
     'Not sure yet'
   ];
 
@@ -408,7 +408,7 @@ export function GetStarted() {
                 </div>
                 <div>
                   <label htmlFor="budget" className="block text-sm mb-2 text-gray-700" style={{ fontWeight: 600 }}>
-                    Budget *
+                    Budget $
                   </label>
                   <div className="relative group">
                     <select
