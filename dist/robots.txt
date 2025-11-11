@@ -2,4 +2,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://intwariknode.rw/sitemap.xml
+# Sitemaps
+Sitemap: https://intwari.com/sitemap.xml
+Sitemap: https://intwari.com/sitemap-index.xml
