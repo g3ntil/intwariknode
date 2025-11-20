@@ -75,15 +75,13 @@
       },
       "scripts": {
             "dev": "vite",
-            "build": "vite build",
-            "prebuild": "shx chmod +x node_modules/.bin/vite",
+            "build": "vite build && npm run sitemap",
             "build:client": "vite build",
             "build:prerender": "node prerender.js",
             "preview": "vite preview",
             "sitemap": "node scripts/generate-sitemap.js",
-            "postbuild": "npm run sitemap",
             "test": "vitest",
-            "vercel-build": "npm run build",
+            "vercel-build": "vite build && npm run sitemap",
             "test:ui": "vitest --ui",
             "test:run": "vitest run"
       }
