@@ -75,15 +75,15 @@
             "vite-plugin-pwa": "^0.17.4"
       },
       "scripts": {
-            "dev": "npx vite",
-            "build": "npx vite build && npm run sitemap",
-            "build:client": "npx vite build",
+            "dev": "vite",
+            "build": "vite build && npm run sitemap",
+            "build:client": "vite build",
             "build:prerender": "node prerender.js",
-            "preview": "npx vite preview",
+            "preview": "vite preview",
             "sitemap": "node scripts/generate-sitemap.js",
             "test": "vitest",
-            "vercel-build": "vite build && npm run sitemap",
-    "postinstall": "echo 'Dependencies installed successfully'",
+            "vercel-build": "npm install && chmod +x node_modules/.bin/vite && npm run build",
+            "postinstall": "chmod +x node_modules/.bin/vite || true",
             "test:ui": "vitest --ui",
             "test:run": "vitest run"
       }
