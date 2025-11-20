@@ -1,8 +1,12 @@
-const fs = require('fs-extra');
-const path = require('path');
-const { SitemapStream, streamToPromise } = require('sitemap');
-const { createGzip } = require('zlib');
-const { Readable } = require('stream');
+import fs from 'fs-extra';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { SitemapStream, streamToPromise } from 'sitemap';
+import { createGzip } from 'zlib';
+import { Readable } from 'stream';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Configuration
 const SITE_URL = 'https://intwari.com';

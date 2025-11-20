@@ -80,7 +80,7 @@
             "build:client": "vite build",
             "build:prerender": "node prerender.js",
             "preview": "vite preview",
-            "sitemap": "node scripts/generate-sitemap.js",
+            "sitemap": "node scripts/generate-sitemap.mjs",
             "test": "vitest",
             "vercel-build": "npm install && chmod +x node_modules/.bin/vite && npm run build",
             "postinstall": "chmod +x node_modules/.bin/vite || true",
