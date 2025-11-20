@@ -1,0 +1,79 @@
+# robots.txt for INTWARI Knode - Digital Marketing Agency Rwanda
+# Last Updated: November 10, 2025
+# Domain: https://intwari.com
+
+# Allow all search engines to crawl the entire site
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location - Critical for indexing
+Sitemap: https://intwari.com/sitemap.xml
+
+# Google Bot - Full access for optimal indexing
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+
+# Google Image Bot - Allow all images
+User-agent: Googlebot-Image
+Allow: /
+
+# Google Mobile Bot - Full mobile access
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Bing Bot - Full access
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+
+# Yandex - Full access
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+
+# Baidu - Full access
+User-agent: Baiduspider
+Allow: /
+Disallow: /admin/
+
+# DuckDuckGo - Full access
+User-agent: DuckDuckBot
+Allow: /
+
+# Facebook Bot - For social sharing
+User-agent: Facebot
+Allow: /
+
+# Twitter Bot - For social sharing
+User-agent: Twitterbot
+Allow: /
+
+# LinkedIn Bot - For professional sharing
+User-agent: LinkedInBot
+Allow: /
+
+# Slow down aggressive SEO crawlers
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: DotBot
+Crawl-delay: 10
+
+# Block malicious and spam bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SiteBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+# Host declaration for search engines
+Host: https://intwari.com
