@@ -1,0 +1,8 @@
+﻿User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /*?
+Crawl-delay: 10
+
+Sitemap: https://intwari.com/sitemap.xml
